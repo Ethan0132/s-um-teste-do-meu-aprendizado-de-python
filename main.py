@@ -1,0 +1,16 @@
+print('-----|𝘽|-|𝙀|-|𝙈|---|𝙑|-|𝙄|-|𝙉|-|𝘿|-|𝙊|------')
+nome=input('Digite o seu nome: ')
+print('Prazer em te conhecer {}'.format(nome))
+idade= int(input('Coloque sua idade: '))
+atual = 2021
+ano = atual-idade
+uname=input('Seu nome de usuario: ')
+pergunta=input('Prosseguindo para as informações do perfil...')
+print('------------------------')
+print('Nome: {}'.format(nome))
+print('Idade: {}'.format(idade))
+print('Ano do seu nascimento: {}'.format(ano))
+print('Username: {}'.format(uname))
+print('------------------------')
+print('-----|𝐅|-|𝐈|-|𝐌|------')
+final=input('Digite qualquer coisa pra sair.')
